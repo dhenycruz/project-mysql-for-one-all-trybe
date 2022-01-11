@@ -29,11 +29,11 @@ CREATE TABLE users(
 
 INSERT INTO users (user_name, plan_id, user_age, date_accession)
 VALUES
-  ('Tathi', 1, 23, '2019-10-20'),
+  ('Thati', 1, 23, '2019-10-20'),
   ('Cintia', 2, 35, '2017-12-30'),
   ('Bill', 3, 20, '2019-06-05'),
   ('Roger', 4, 45, '2020-05-13'),
-  ('Normam', 4, 58, '2017-02-17'),
+  ('Norman', 4, 58, '2017-02-17'),
   ('Patrick', 2, 33, '2017-01-06'),
   ('Vivian', 3, 26, '2018-01-05'),
   ('Carol', 3, 19, '2018-02-14'),
