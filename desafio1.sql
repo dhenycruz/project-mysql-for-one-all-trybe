@@ -131,7 +131,7 @@ VALUES
 ('Baby', 136, 10, 6),
 ('You Make Me Feel So..', 83, 10, 6);
 
-CREATE TABLE history (
+CREATE TABLE history_reproduce (
   user_id int NOT NULL,
   song_id int NOT NULL,
   date_reproduce  DATETIME NOT NULL,
@@ -140,7 +140,7 @@ CREATE TABLE history (
   FOREIGN KEY (song_id) references songs (song_id)
 ) engine = InnoDB;
 
-INSERT INTO history (user_id, song_id, date_reproduce)
+INSERT INTO history_reproduce (user_id, song_id, date_reproduce)
 VALUES
 (1, 36, '2020-02-28 10:45:55'),
 (1, 25, '2020-05-02 05:30:35'),
