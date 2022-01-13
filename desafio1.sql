@@ -49,9 +49,9 @@ CREATE TABLE artist (
 INSERT INTO artist (artist_name)
 VALUES
 ('Walter Phoenix'),
-('Peter String'),
+('Peter Strong'),
 ('Lance Day'),
-('Freedue Shannon'),
+('Freedie Shannon'),
 ('Tyler Isle'),
 ('Fog');
 
@@ -204,22 +204,31 @@ VALUES
 (1, 1),
 (1, 4),
 (1, 3),
+
 (2, 1),
 (2, 3),
+
 (3, 2),
-(3, 3),
+(3, 1),
+
 (4, 4),
+
 (5, 5),
 (5, 6),
+
 (6, 6),
 (6, 3),
 (6, 1),
+
 (7, 2),
 (7,5),
+
 (8, 1),
 (8, 5),
+
 (9, 6),
 (9, 4),
 (9, 3),
+
 (10, 2),
 (10, 6);
