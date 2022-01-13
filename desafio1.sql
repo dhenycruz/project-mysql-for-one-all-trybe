@@ -93,7 +93,7 @@ VALUES
 ('Soul For Us', 200, 1, 1),
 ('Reflections Of Magic', 163, 1, 1),
 ('Dance With Her Own', 116, 1, 1),
-('Troubles Of My Roses', 203, 2, 1),
+('Troubles Of My Inner Fire', 203, 2, 1),
 ('Time Fireworks', 152, 2, 1),
 ('Magic Circus', 105, 3, 2),
 ('Honey, So Do I', 207, 3, 2),
