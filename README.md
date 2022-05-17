@@ -1,14 +1,10 @@
 # Projeto Mysql One For All
 Objetivo do projeto:
-- Utilizar os seletores (queries) da React-Testing-Library em testes automatizados.
-- Simular eventos com a React-Testing-Library em testes automatizados.
-- Testar fluxos lógicos assíncronos com a React-Testing-Library.
-- Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados.
-- Criar mocks de APIs utilizando fetch.
+- Modelar um banco de dados
+- Identificar entidades, atributos e relacionamentos
+- Aplicar a 1ª, 2ª e 3ª Forma Normal
+- Criar tabelas
 - Testar inputs.
-
-## Observações
-- Esse projeto tanto a comunicação com o back-end quanto o front-end foi construído e configurado pelos especialistas das trybe. O objetivo do estudando é testar a aplicação, os testes desenvolvidos por mim, está na pasta src/tests.
 
 ## 🚀 Começando
 - Para iniciliaziar o projeto em sua máquina:
